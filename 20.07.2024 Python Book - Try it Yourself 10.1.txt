@@ -1,0 +1,16 @@
+In python you can archive data about a specific object, like cars
+In python you can make calculous about something
+In python you can define a grade for a student
+In python you can make a game
+In python you can manipulate data
+In python you can manipulate strings and their format
+In python you can sort a list
+In python you can make lists, variables and others
+In python you can deal with numbers
+In python you can make functions
+In python you can refactoring a code into snips
+In python you can open others files
+In python you can read others files
+In python you can automatizate anything
+In python you can make others files
+In python you can get user information
